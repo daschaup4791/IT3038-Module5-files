@@ -1,0 +1,4 @@
+My IP is 192.168.1.1.
+You IP is 10.11.12.90.
+The server is at 255.255.255.255.
+Not valid: 999.999.999.999.

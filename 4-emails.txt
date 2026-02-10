@@ -1,0 +1,3 @@
+Contact us at support@company.com.
+My email is firstname.lastname@domain.co.uk.
+Wrong email: someone@@example..com.
