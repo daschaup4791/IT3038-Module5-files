@@ -1,0 +1,9 @@
+Some text like foo
+
+#STARTSECTION
+more text like foo
+#ENDSECTION
+
+even more text like foo
+
+path=/usr/local
